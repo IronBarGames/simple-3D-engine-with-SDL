@@ -1,0 +1,2 @@
+note 0x01: reflections need tweaking so that clearly visible issue goes away, but how?
+note 0x02: would like to be able to use images for wall textures
